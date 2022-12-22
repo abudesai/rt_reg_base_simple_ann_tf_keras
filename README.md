@@ -1,5 +1,7 @@
 Simple ANN in TensorFlow/Keras for Regression as per Ready Tensor specifications for the Regression Base category.
 
+- artificial neural network
+- ANN
 - tensorflow
 - keras
 - regularization
